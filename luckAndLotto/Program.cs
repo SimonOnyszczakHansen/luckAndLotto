@@ -12,7 +12,7 @@
             Random rand = new Random();
             
             //I made a loop that runs 7 times so we generate 7 numbers
-            for (int i = 0; i < 7; i++)
+            for (int i = 0; i < 8; i++)
             {
                 //This code makes the last number red
                 if (i == 6)
